@@ -1,0 +1,47 @@
+h1 {
+    color: darkslategray;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    text-shadow: 2px 2px 5px lightslategray;
+}
+
+a{
+    color:lightslategray;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkslategray;
+}
+
+p {
+    color: black;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+}
+
+p.bottom {
+    color: darkslategray;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background-color: white;
+    padding: 5px;
+    text-shadow: 2px 2px 5px lightslategray;
+    font-size: small;
+    position: relative;
+    bottom: 10px;
+}
+
+body {
+    background-color: slategrey;
+}
